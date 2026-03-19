@@ -10,7 +10,7 @@ Quiero aprender a identificar accesos correctos y fallidos, entender cómo se re
 Me conecté desde mi máquina Linux al servidor Ubuntu usando SSH.  
 Al ingresar la contraseña correcta, pude acceder y empezar a explorar el entorno.
 
-*Aprendizaje: entendí cómo establecer una conexión segura y qué información se genera al iniciar sesión correctamente.
+Aprendizaje: entendí cómo establecer una conexión segura y qué información se genera al iniciar sesión correctamente.
 
 ---
 
@@ -18,7 +18,7 @@ Al ingresar la contraseña correcta, pude acceder y empezar a explorar el entorn
 Dentro del servidor, revisé los últimos eventos de autenticación con 'tail'.  
 Esto me permitió ver los accesos recientes y cierres de sesión.
 
-*Aprendizaje: comprendí la estructura de 'auth.log' y la importancia de revisar logs recientes para detectar actividad relevante.
+Aprendizaje: comprendí la estructura de 'auth.log' y la importancia de revisar logs recientes para detectar actividad relevante.
 
 ---
 
@@ -26,7 +26,7 @@ Esto me permitió ver los accesos recientes y cierres de sesión.
 Para enfocarme en accesos incorrectos, utilicé 'grep' para buscar solo los intentos fallidos de login.  
 Esto me ayudó a identificar rápidamente si había actividad sospechosa o fallos de autenticación.
 
-* Aprendizaje: aprendí a aislar la información relevante y cómo detectar intentos fallidos de manera eficiente, como lo haría un analista SOC.
+Aprendizaje: aprendí a aislar la información relevante y cómo detectar intentos fallidos de manera eficiente, como lo haría un analista SOC.
   
 ---
 
@@ -34,7 +34,7 @@ Esto me ayudó a identificar rápidamente si había actividad sospechosa o fallo
 Finalmente, monitoricé los eventos de autenticación en tiempo real usando 'tail -f' combinado con filtrado de fallos.  
 Mientras tanto, generé un intento fallido desde otra terminal para observar cómo se registraba instantáneamente.
 
-*Aprendizaje: entendí cómo los eventos se registran al instante y cómo un analista SOC puede reaccionar a incidentes en tiempo real. Esto me dio una visión más práctica de la detección de alertas.
+Aprendizaje: entendí cómo los eventos se registran al instante y cómo un analista SOC puede reaccionar a incidentes en tiempo real. Esto me dio una visión más práctica de la detección de alertas.
 
 ---
 
