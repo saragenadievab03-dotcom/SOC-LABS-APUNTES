@@ -18,9 +18,8 @@ Se analizan consultas DNS de una red interna para identificar posibles dominios 
 - paypaI-verification.com
 
 # Aprendizajes
-1 Cómo detectar phishing mediante DNS
-2 Importancia de revisar logs en un SOC
-3 Identificación de dominios falsos
+ Cómo detectar phishing mediante DNS / Importancia de revisar logs en un SOC / 
+ Identificación de dominios falsos
 
 # Conclusión final
 El análisis de logs DNS permite detectar amenazas tempranas como phishing o suplantación de identidad.
