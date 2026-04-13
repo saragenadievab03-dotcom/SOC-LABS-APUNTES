@@ -1,6 +1,6 @@
 # OSI Analysis Lab
 
-# Objetivo
+# Objetivo 
 Entender las diferentes capas del modelo OSI mediante comandos reales.
 
 # Pruebas realizadas
