@@ -1,0 +1,55 @@
+# Tipos de alertas en un SOC
+
+En un Security Operations Center (SOC), las alertas son notificaciones generadas por herramientas de seguridad cuando se detecta una posible actividad sospechosa.
+
+No todas las alertas indican un ataque real, por lo que es importante clasificarlas correctamente.
+
+
+# Tipos de alertas:
+
+
+# Verdadero positivo (True Positive)
+
+Es una alerta que indica una amenaza real.
+
+
+Ejemplo:
+Un intento de acceso no autorizado detectado correctamente.
+
+
+# Falso positivo (False Positive)
+
+Es una alerta que indica una amenaza, pero en realidad no lo es.
+
+
+Ejemplo:
+Un usuario legítimo genera tráfico que parece sospechoso.
+
+
+# Falso negativo (False Negative)
+
+Es una amenaza real que NO ha sido detectada por el sistema.
+
+Ejemplo:
+Un ataque que pasa desapercibido.
+
+Es el tipo más peligroso.
+
+
+# Verdadero negativo (True Negative)
+
+Actividad normal que el sistema identifica correctamente como segura.
+
+
+# Importancia en ciberseguridad
+
+La correcta clasificación de alertas es clave para:
+
+- evitar pérdida de tiempo
+- mejorar la detección de amenazas
+- optimizar herramientas de seguridad 
+
+
+# Conclusión
+
+Un analista SOC debe saber diferenciar entre estos tipos de alertas para tomar decisiones correctas y responder adecuadamente a incidentes.
