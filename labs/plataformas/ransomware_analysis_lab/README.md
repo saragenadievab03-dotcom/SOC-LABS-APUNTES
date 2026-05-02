@@ -1,0 +1,29 @@
+# Ransomware Analysis Lab 
+
+# Plataforma
+Blue Team Labs Online
+
+# Objetivo
+Analizar un incidente de ransomware y entender su comportamiento.
+
+# Escenario
+Se proporcionó un sistema comprometido donde se detectó actividad sospechosa relacionada con ransomware.
+
+# Análisis
+Se identificaron indicios de cifrado de archivos y actividad maliciosa en el sistema.
+
+Se revisaron evidencias como:
+- archivos afectados
+- comportamiento del sistema
+- posibles vectores de entrada
+
+# Resultados
+Se confirmó la presencia de ransomware en el sistema.
+
+# Conclusión
+El análisis permitió entender cómo actúa el ransomware y cómo detectar este tipo de amenazas en un entorno SOC.
+
+# Aprendizajes
+- análisis de incidentes reales
+- identificación de malware
+- pensamiento analítico en ciberseguridad
