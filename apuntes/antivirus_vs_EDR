@@ -1,0 +1,41 @@
+# Antivirus vs EDR
+
+# Antivirus (AV)
+
+El antivirus es una herramienta de seguridad básica enfocada en detectar y eliminar malware conocido en un endpoint.
+
+Funciona principalmente mediante firmas, comparando archivos con una base de datos de amenazas conocidas. Algunos incluyen análisis heurístico, pero su enfoque sigue siendo mayoritariamente reactivo.
+
+Es eficaz contra malware común y ya identificado, pero tiene limitaciones importantes frente a amenazas modernas, como ataques zero-day, malware sin archivos y técnicas de evasión avanzadas.
+
+Su visibilidad del sistema es limitada y no permite una investigación profunda de incidentes.
+
+
+
+# EDR (Endpoint Detection and Response)
+
+El EDR es una solución avanzada de seguridad diseñada para detectar, investigar y responder a amenazas en endpoints en tiempo real.
+
+Recopila y analiza continuamente telemetría del sistema, como procesos, conexiones de red, actividad de usuarios y cambios en el sistema operativo. Su detección se basa en comportamiento y correlación de eventos, no solo en firmas.
+
+Permite identificar ataques avanzados como movimiento lateral, escalada de privilegios, malware sofisticado o uso malicioso de herramientas legítimas del sistema.
+
+Además, proporciona capacidades de respuesta como aislamiento del equipo, terminación de procesos y análisis forense del incidente.
+
+
+
+# Diferencias clave
+
+Antivirus:
+
+* Basado en firmas
+* Detecta amenazas conocidas
+* Visibilidad limitada
+* Respuesta básica (bloqueo o eliminación)
+
+EDR:
+
+* Basado en comportamiento
+* Detecta amenazas avanzadas y desconocidas
+* Alta visibilidad del endpoint
+* Respuesta activa e investigación completa
