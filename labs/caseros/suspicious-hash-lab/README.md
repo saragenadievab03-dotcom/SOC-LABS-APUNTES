@@ -1,0 +1,17 @@
+# Suspicious Activity & Hash Analysis Lab 
+
+# Objetivo
+Este laboratorio simula una investigación básica de un archivo sospechoso mediante comandos de Linux y técnicas de hashing. 
+
+# Escenario
+Se detectó un archivo con posible comportamiento sospechoso llamado:
+
+'cracked_keygen.sh'
+
+El objetivo es analizar su contenido y obtener información relevante utilizando comandos del sistema.
+
+# Herramientas utilizadas
+- Linux (Ubuntu)
+- 'ls'
+- 'sha256sum'
+- 'file'
